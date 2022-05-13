@@ -3,6 +3,7 @@ I worked/am working in many programming languages as:
   - C/C++
   - MatLab
   - Python
+  - TeX
   - Java (learning by myself)
 
 I’m interested in data proccesing, coding, games and solving logical puzzles.
