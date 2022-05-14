@@ -4,7 +4,7 @@ I worked/am working in many programming languages as:
   - MatLab
   - Python
   - TeX
-  - Java (learning by myself)
+  - Java
 
 I’m interested in data proccesing, coding, games and solving logical puzzles.
 
