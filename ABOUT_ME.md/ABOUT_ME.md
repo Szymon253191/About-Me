@@ -5,8 +5,9 @@ I worked/am working in many programming languages as:
   - Python
   - TeX
   - Java
+  - UNIX
 
 I’m interested in data proccesing, coding, games and solving logical puzzles.
 
 You can reach me by:
-  - email: sedward154@gmail.com
+  - email: szymon.e.rozmyslowski@gmail.com
