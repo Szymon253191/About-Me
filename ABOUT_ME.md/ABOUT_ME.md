@@ -6,6 +6,7 @@ I worked/am working in many programming languages as:
   - TeX
   - Java
   - UNIX
+  - SQL
 
 I’m interested in data proccesing, coding, games and solving logical puzzles.
 
