@@ -12,3 +12,4 @@ I’m interested in data proccesing, coding, games and solving logical puzzles.
 
 You can reach me by:
   - email: szymon.e.rozmyslowski@gmail.com
+  - Linkedin: https://www.linkedin.com/in/szymon-rozmyslowski/
